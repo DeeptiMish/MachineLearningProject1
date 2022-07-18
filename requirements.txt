@@ -1,3 +1,7 @@
+PyYAML
+evidently
+dill
+matplotlib
 Flask
 gunicorn
 sklearn
